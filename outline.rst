@@ -22,4 +22,4 @@
 
 9. Describe the input and output formats, as formally as you can.
 
-10. ???
+10. Provide a list of easy ways for other people to contribute (e.g., mark some bugs or feature requests as "suitable for newcomers").
