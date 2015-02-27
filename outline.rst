@@ -22,4 +22,4 @@
 
 9. Describe the input and output formats, as formally as you can.
 
-10. ???
+10. Promote your software. People need to know about it otherwise they can not use it
